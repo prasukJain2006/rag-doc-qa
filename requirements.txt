@@ -1,0 +1,8 @@
+streamlit>=1.35
+scikit-learn>=1.5
+numpy>=1.26
+# Optional, only for LLM_PROVIDER=gemini:
+# google-generativeai>=0.7
+# Optional, only for the embeddings upgrade described in README:
+# sentence-transformers>=2.7
+# faiss-cpu>=1.8
